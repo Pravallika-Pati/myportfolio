@@ -73,7 +73,7 @@ p{
 .card-body{
     /* box-shadow: 5px 10px 20px grey inset; */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
-    background-color: background-color: rgb(244, 175, 230);
+    background-color: rgb(244, 175, 230);
     padding-left:35%;
     padding-bottom: 10%; 
 }
@@ -140,7 +140,7 @@ h2::before{
     background-image: linear-gradient("#8bb2b2,#3063af");
     box-shadow:5px 3px 2px 3px #888888;
     width: 85%;
-    box-shadow: 0 0 10px  rgb(171, 117, 218);
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
     margin: auto;
     border: 0;
     height: 650px;
@@ -149,7 +149,7 @@ h2::before{
 .pro{
    height:500px;
    padding: 2rem;
-   background-color: rgb(132, 143, 152);
+   background-color: rgb(171, 117, 218);
 }
 
 .download-button{
